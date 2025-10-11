@@ -17,8 +17,7 @@ function Services() {
             <img style={{borderRadius:'50%', width:'30px', height:'30px'}} src={imgsrc} alt="web dvlpmt"></img>
           </div>
         <b className="walter-turncoat-regular">WEB DEVELOPMENT</b><br></br>
-          <b className="indie-flower-regular-2">I craft dynamic and responsive web applications tailored to meet your needs. Using a diverse range of techstacks,
-             I bring your vision to life with functionality and style</b>
+          <b className="indie-flower-regular-2">I craft dynamic and responsive web applications using a diverse range of techstacks.</b>
         </Col>
 
         <Col>
@@ -26,9 +25,8 @@ function Services() {
           <img style={{borderRadius:'50%', width:'30px', height:'30px'}} src={imgs} alt="web design"></img>
           </div>
         <b className="walter-turncoat-regular">WEB DESIGN</b><br></br>
-        <b className="indie-flower-regular-2">I create visually appealing interfaces that engage your audience. Leveraging tools 
-          like Figma, I design user-friendly layouts that effectively communicate your brand's 
-          identity</b>
+        <b className="indie-flower-regular-2">I create visually appealing interfaces that engage your audiences, leveraging tools 
+          like Figma.</b>
         </Col>
 
         
@@ -37,8 +35,7 @@ function Services() {
           <img style={{borderRadius:'50%', width:'30px', height:'30px'}} src={srcimg} alt="andr dvlpmt"></img>
           </div>
           <b className="walter-turncoat-regular">ANDROID DEVELOPMENT</b><br></br>
-          <b className="indie-flower-regular-2">Whether you need a sleek mobile app for your
-          business or a feature-rich solution for your users, I develop custom Android apps 
+          <b className="indie-flower-regular-2">I develop sleek and custom Android apps for your users
           that combine innovation and performance</b>
         </Col>
      </Row>

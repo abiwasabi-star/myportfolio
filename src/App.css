@@ -1,8 +1,7 @@
 html, body, #root, .App {
   text-align: center;
   display: grid;
-  background: url('../src/assets/pexels.jpg') no-repeat center center fixed;
-  background-size: cover;
+  background: none;
 }
 
 .walter-turncoat-regular {
@@ -13,36 +12,34 @@ html, body, #root, .App {
 
 .walter-turncoat-regular-2 {
   font-family: "Walter Turncoat", serif;
-  /* font-weight: 400; */
   font-style: normal;
   font-size: 15px;
 }
 
 .indie-flower-regular {
   font-family: "Indie Flower", serif;
-  /* font-weight: 900; */
   font-size: 45px;
-  font-style:normal;
+  font-style: normal;
 }
 
 .indie-flower-regular-2 {
   font-family: "Indie Flower", serif;
   font-size: 15px;
-  font-style:normal;
+  font-style: normal;
 }
 
 .indie-flower-regular-3 {
   font-family: "Indie Flower", serif;
   font-size: 12px;
-  font-style:normal;
+  font-style: normal;
 }
 
 .material-symbols-outlined {
   font-variation-settings:
-  'FILL' ,
+  'FILL',
   'wght' 400,
   'GRAD' 0,
-  'opsz' 24,
+  'opsz' 24;
 }
 
 h5 {
@@ -55,9 +52,17 @@ a {
   color: black;
 }
 
-.pp:hover {
-  box-shadow: 0px 0px 12px 5px rgba(245, 229, 208, 0.9); /* Slightly stronger on hover */
+/* .pp {
+  height: 300px;
+  width: 300px;
+  box-shadow: 0px 0px 12px 5px rgba(245, 229, 208, 0.9);
+} */
+
+/* 🔹 one big background wrapper */
+.portfolio-background {
+  background: url('../src/assets/pexels.jpg') no-repeat center center;
+  background-size: cover;
+  padding: 30px;
+  border-radius: 15px;
+  margin: 20px auto;
 }
-
-
-
