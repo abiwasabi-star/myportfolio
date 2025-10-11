@@ -68,7 +68,7 @@ function App() {
               <a style={{marginRight:"10px"}} target="_blank" href="https://www.linkedin.com/in/abigael-wanjala-96a7b5265/" rel="noreferrer">
                 <FontAwesomeIcon icon={faLinkedin} size="1x" />
               </a>
-              <a style={{marginRight:"10px"}} target="_blank" href="https://github.com/Abigael-Wasabi" rel="noreferrer">
+              <a style={{marginRight:"10px"}} target="_blank" href="https://github.com/abiwasabi-star" rel="noreferrer">
                 <FontAwesomeIcon icon={faGithub} size="1x" />
               </a>
               <a style={{marginRight:"10px"}} target="_blank" href="tel:+254111583196" rel="noreferrer">
