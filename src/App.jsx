@@ -65,17 +65,17 @@ function App() {
               alt="abigael"
             />
             <div>
-              <a style={{marginRight:"10px"}} target="_blank" href="https://www.linkedin.com/in/abigael-wanjala-96a7b5265/" rel="noreferrer">
-                <FontAwesomeIcon icon={faLinkedin} size="1x" />
-              </a>
-              <a style={{marginRight:"10px"}} target="_blank" href="https://github.com/abiwasabi-star" rel="noreferrer">
-                <FontAwesomeIcon icon={faGithub} size="1x" />
-              </a>
-              <a style={{marginRight:"10px"}} target="_blank" href="tel:+254111583196" rel="noreferrer">
-                <FontAwesomeIcon icon={faPhone} size="1x" />
-              </a>
+              <a style={{marginBottom:"20px"}} target="_blank" href="https://www.linkedin.com/in/abigael-wanjala-96a7b5265/" rel="noreferrer">
+                <FontAwesomeIcon icon={faLinkedin} size="2x" />
+              </a><br></br>
+              <a style={{marginBottom:"20px"}} target="_blank" href="https://github.com/abiwasabi-star" rel="noreferrer">
+                <FontAwesomeIcon icon={faGithub} size="2x" />
+              </a><br></br>
+              <a style={{marginBottom:"20px"}} target="_blank" href="tel:+254111583196" rel="noreferrer">
+                <FontAwesomeIcon icon={faPhone} size="2x" />
+              </a><br></br>
               <a target="_blank" href="mailto:abiwasabi03@gmail.com" rel="noreferrer">
-                <FontAwesomeIcon icon={faEnvelope} />
+                <FontAwesomeIcon icon={faEnvelope} size="2x" /><br></br>
               </a>
             </div>
           </Col>
